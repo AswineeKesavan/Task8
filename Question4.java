@@ -1,5 +1,6 @@
 /*
- * Q4:write a program to get 2 numbers from the user and swap their values without any loss of data. 
+ * Q4:write a program to get 2 numbers from the user and swap their values 
+   without any loss of data. 
  * you can make use of additional variables for swapping. 
  * print the corresponding swapped value of the two numbers as output in the consoles.
  */
